@@ -10,9 +10,9 @@
 <div align="center">
   <! -- <img src="https://badges.pufler.dev/visits/The-Normal-One1/The-Normal-One1?color=3f37c9">
   <img src="https://komarev.com/ghpvc/?username=The-Normal-One1&color=3f37c9">
-  <!-- <a href = "https://commits.top/Ethiopia.html" target="_blank">
+  <a href = "https://commits.top/ethiopia_public.html" target="_blank">
 		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="Ermiyas" target="_blank"/>
-	</a> -->
+	</a>
 </div>
 
 ---
