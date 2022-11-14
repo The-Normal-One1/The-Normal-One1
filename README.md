@@ -19,7 +19,7 @@
 
 <img align="right" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
 
-- 🎓 I have a **Bachelor's degree** in Mechanical engineering (Desgin). Obtained from Addis Ababa University, Ethiopia.
+- 🎓 I have a **Bachelor's degree** in Mechanical engineering (Design). Obtained from Addis Ababa University, Ethiopia.
 
 - 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
@@ -27,7 +27,7 @@
 
 - 💻 All **my projects** are available [here.](https://github.com/The-Normal-One1?tab=repositories)
 
-### 🚀 Check out [my portfolio.](https://The-Normal-One1.me/)
+### 🚀 Check out [my portfolio.](https://the-normal-one1.github.io/PortFolio/)
 
 ### 📫 Reach me on:
 
@@ -37,7 +37,7 @@
 <a href="https://dev.to/thenormalone1" target="_blank"><img align="center" src="./images/dev.png" alt="dev community" width="35" /></a>
 </p>
 
-- ✨ Interests: Coding, Reading Books, Art, Video Games, Watching Footabll Games.
+- ✨ Interests: Coding, Reading Books, Art, Video Games, Watching Football Games.
 
 - ⚡ Fun fact: **Developers in the gaming industry are the happiest**.
 
@@ -78,6 +78,6 @@
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Normal-One1&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
 
-<h2>Weekly Coding Stats</h2>
+<!-- <h2>Weekly Coding Stats</h2> -->
 
-[![Ermiyas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=The-Normal-One1&theme=nightowl&v=2)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Ermiyas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=The-Normal-One1&theme=nightowl&v=2)](https://github.com/anuraghazra/github-readme-stats) -->
