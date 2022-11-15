@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center"> Hi there👋, I'm Ermiyas</h1>
 <h3 align="center">A mechanical Engineer and a software developer from Ethiopia</h3>
 
