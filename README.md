@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 - 🎓 I have a **Bachelor's degree** in Mechanical engineering (Design). Obtained from Addis Ababa University, Ethiopia.
 
