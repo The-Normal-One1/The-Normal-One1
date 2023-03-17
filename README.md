@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there👋, I'm Ermiyas</h1>
-<h3 align="center">A mechanical Engineer and a software developer from Ethiopia</h3>
+<h3 align="center">A Software Developer and a Mechanical Engineer from Ethiopia</h3>
 
 <p align="center">Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning software languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
 
