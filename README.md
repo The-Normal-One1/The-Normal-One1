@@ -82,3 +82,6 @@
 <h2>Weekly Coding Stats</h2>
 
 [![Ermiyas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheNormalOne1&theme=nightowl&v=2)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>Total time Coding Stats</h2>
+<a href="https://wakatime.com/@5ee91e50-b282-4494-99f5-8daf947fb8c5"><img src="https://wakatime.com/badge/user/5ee91e50-b282-4494-99f5-8daf947fb8c5.svg" alt="Total time coded since Nov 14 2022" /></a>
