@@ -79,6 +79,6 @@
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Normal-One1&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
 
-<!-- <h2>Weekly Coding Stats</h2> -->
+<h2>Weekly Coding Stats</h2>
 
-<!-- [![Ermiyas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=The-Normal-One1&theme=nightowl&v=2)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Ermiyas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=The-Normal-One1&theme=nightowl&v=2)](https://github.com/anuraghazra/github-readme-stats)
