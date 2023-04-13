@@ -32,7 +32,9 @@
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/DemsewErmiyas" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/ermiyas-demsew-616b1b19a/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
-<a href="https://dev.to/thenormalone1" target="_blank"><img align="center" src="./images/dev.png" alt="dev community" width="35" /></a>
+<a href="https://dev.to/thenormalone1" target="_blank"><img align="center" src="./images/dev.png" alt="dev community" width="35" /></a> &nbsp;
+<a href="https://www.upwork.com/freelancers/~01777c53f0b270a487" target="_blank"><img align="center" src="./images/upimage.png" alt="upwork community" width="35" /></a>
+
 </p>
 
 - ✨ Interests: Coding, Reading Books, Art, Video Games, Watching Football Games.
