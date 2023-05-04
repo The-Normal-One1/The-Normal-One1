@@ -80,6 +80,8 @@
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Normal-One1&layout=compact&show_icons=true&theme=nightowl"/>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=The-Normal-One1&theme=blue-green&card_width=800)](https://git.io/streak-stats)
+
 <!--  <h2>Weekly Coding Stats</h2>
 
 [![Ermiyas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheNormalOne1&theme=nightowl&v=2)](https://github.com/TheNormalOne/github-readme-stats)
