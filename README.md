@@ -58,6 +58,7 @@
 		<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" title="React" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" title="Redux" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" title="Postgresql" />
+	<img height="50" src="./images/ruby-logo.png" alt="Ruby" title="Ruby" />
 	<!-- <img height="50" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Postman" title="Postman" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" title="MySQL" />
@@ -88,4 +89,3 @@
 
 <h2>Total Time Coding Stats</h2>
 <a href="https://wakatime.com/@5ee91e50-b282-4494-99f5-8daf947fb8c5"><img src="https://wakatime.com/badge/user/5ee91e50-b282-4494-99f5-8daf947fb8c5.svg" alt="Total time coded since Nov 14 2022" /></a> -->
- 
