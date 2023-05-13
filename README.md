@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there👋, I'm Ermiyas</h1>
 <h3 align="center">A Software Developer and a Mechanical Engineer from Ethiopia</h3>
 
-<p align="center">Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning software languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
+<p align="center">I am a highly skilled full stack developer with expertise in a range of technologies including HTML, CSS, JavaScript, React, Redux, PostgreSQL, and Ruby on Rails. With several years of experience in web development, I am passionate about building robust and engaging web applications. My strong foundation in front-end development allows me to create responsive and intuitive user interfaces that enhance the user experience. On the back-end, I am talented in managing complex databases and designing effective technical solutions.</p>
 
 ---
 
