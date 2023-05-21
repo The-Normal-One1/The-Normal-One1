@@ -17,7 +17,7 @@
 
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-- 🎓 I have a **Bachelor's degree** in Mechanical engineering (Design). Obtained from Addis Ababa University, Ethiopia.
+- 🎓 I have a **Bachelor's degree** in Mechanical engineering (specialized in Design). Obtained from Addis Ababa University, Ethiopia.
 
 - 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
