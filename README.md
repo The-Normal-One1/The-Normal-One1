@@ -58,10 +58,11 @@
 		<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" title="React" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" title="Redux" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" title="Postgresql" />
-	<img height="50" src="./images/ruby-logo.png" alt="Ruby" title="Ruby" />
+	<img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/ruby.svg" alt="Ruby" title="Ruby" />
+	<img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/rails.svg" alt="rails" title="Rails" />
 	<!-- <img height="50" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Postman" title="Postman" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle" />
-	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" title="MySQL" />
+	<img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/rails.svg" alt="rails" title="Rails" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" title="Firebase" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" title="Postgresql" /> -->
 </div>
@@ -72,7 +73,10 @@
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/92019392-ff87-4f49-9415-927e5e081131" target="blank"><img src="./images/html-css-badge.png" width="80"></a> &nbsp;
   <a href="https://www.credential.net/09805626-f896-492d-9733-aa31e87bfd3d#gs.qzp69x" target="blank"><img src="./images/js-badge.png" width="80"></a> &nbsp;
   <a href="https://www.credential.net/8d0b202b-7b18-461c-8efb-be7e3d84573f#gs.tnp29v" target="blank"><img src="./images/react-badge.png" width="80"></a> &nbsp;
-	<a href="https://www.credential.net/d583ab43-5a09-4861-b2aa-5c45f3fd1b41#gs.wekt5z" target="blank"><img src="./images/ruby-badge.png" width="80"></a> &nbsp;<!--<a href="https://www.credential.net/e5eb4ffb-dd1c-4e11-806e-4471b975eb3e#gs.8ndmnv" target="blank"><img src="./images/ruby-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/523addae-8430-4be1-b42b-e96bddd8f3cd#gs.do1qdt" target="blank"><img src="./images/ror-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/ead19171-5e17-4ca0-b87a-44e502f92274#gs.f8u1wp" target="blank"><img src="./images/web-dev-badge.png" width="80"></a> -->
+	<a href="https://www.credential.net/d583ab43-5a09-4861-b2aa-5c45f3fd1b41#gs.wekt5z" target="blank"><img src="./images/ruby-badge.png" width="80"></a> &nbsp;
+	<a href="https://www.credential.net/29cb0f02-bf01-4bb9-8c97-04ca54556d1f
+" target="blank"><img src="./images/ror-badge.png" width="80"></a> &nbsp;
+	<!--<a href="https://www.credential.net/e5eb4ffb-dd1c-4e11-806e-4471b975eb3e#gs.8ndmnv" target="blank"><img src="./images/ruby-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/523addae-8430-4be1-b42b-e96bddd8f3cd#gs.do1qdt" target="blank"><img src="./images/ror-badge.png" width="80"></a> &nbsp; <a href="https://www.credential.net/ead19171-5e17-4ca0-b87a-44e502f92274#gs.f8u1wp" target="blank"><img src="./images/web-dev-badge.png" width="80"></a> -->
 </p>
 
 <h2 align ="left">GitHub Stats</h2>
