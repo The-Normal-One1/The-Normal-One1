@@ -9,8 +9,7 @@
 <!--   <img src="https://badges.pufler.dev/visits/The-Normal-One1/The-Normal-One1?color=3f37c9"> -->
   <img src="https://komarev.com/ghpvc/?username=The-Normal-One1&color=3f37c9">
   <!-- <a href = "https://commits.top/ethiopia_public.htmll" target="_blank">
-		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="Ermiyas" target="_blank"/>
-	</a> -->
+		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="Ermiyas" target="_blank"/></a> -->
 </div>
 
 ---
