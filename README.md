@@ -24,7 +24,7 @@
 
 - 💻 All **my projects** are available [here.](https://github.com/The-Normal-One1?tab=repositories)
 
-### 🚀 Check out [my portfolio.](https://the-normal-one1.github.io/PortFolio/)
+### 🚀 Check out [My portfolio.](https://the-normal-one1.github.io/PortFolio/)
 
 ### 📫 Reach me on:
 
