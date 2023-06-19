@@ -22,7 +22,7 @@
 
 <!-- - 🌱 I’m currently working on side projects. -->
 
-- 💻 All **my projects** are available [here.](https://github.com/The-Normal-One1?tab=repositories)
+- 💻 All **my projects** are available [Here.](https://github.com/The-Normal-One1?tab=repositories)
 
 ### 🚀 Check out [My Portfolio.](https://the-normal-one1.github.io/PortFolio/)
 
