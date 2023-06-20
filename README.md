@@ -59,7 +59,7 @@
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" title="Postgresql" />
 	<img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/ruby.svg" alt="Ruby" title="Ruby" />
 	<img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/rails.svg" alt="rails" title="Rails" />
-	<!-- <img height="50" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Postman" title="Postman" />
+	<!--
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle" />
 	<img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/rails.svg" alt="rails" title="Rails" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" title="Firebase" />
